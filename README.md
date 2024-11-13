@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 I'm Zabebla, a roblox developer.
 
+You may know me as the developer of Untitled Sandbox Game, the game I've made on roblox. For now I'm doing some shitties in roblox, but planning expanding in other spheres and get smarter!!!
+
 You can contact me in discord by username @zabebla
