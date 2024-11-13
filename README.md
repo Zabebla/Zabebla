@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 <!--
 **Zabebla/Zabebla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Zabebla, a roblox developer.
+You can contact me in discord by username @zabebla
